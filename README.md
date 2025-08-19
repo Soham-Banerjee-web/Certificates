@@ -10,8 +10,10 @@ This repository contains verified certifications from MOOCs and professional lea
 
 3.Robot localization(Guided Project)
 
-4.Mathematics for Machine Learning\
+4.CFD Simulation(Guided Project)
 
-5.CFD Simulator 
+5.Mathematics for Machine Learning
 
-6.Urban Air Mobility
+6.CFD Simulator 
+
+7.Urban Air Mobility
